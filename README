@@ -1,0 +1,2 @@
+I hacked those programs together to read and write more than 1 byte at once
+on the I²C-Bus. I hope it will be useful for you too.
