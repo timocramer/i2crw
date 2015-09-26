@@ -1,0 +1,3 @@
+*.o
+i2cread
+i2cwrite
